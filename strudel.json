@@ -1,8 +1,8 @@
 {
 
 	"_base": "https://raw.githubusercontent.com/8v01d/Strudel-Samples/main/",
-	"drum": ["drum/drum1.wav", "drum/drum2.wav", "drum/drum3.wav"],
-	"hello": ["hello/hello.wav"],
-	"sample": ["sample/sample1.wav", "sample/sample2.wav", "sample/sample3.wav", "sample/sample4.wav", "sample/sample5.wav", "sample/sample6.wav", "sample/sample7.wav", "sample/sample8.wav", "sample/sample9.wav", "sample/sample10.wav", "sample/sample11.wav", "sample/sample12.wav", "sample/sample13.wav", "sample/sample14.wav", "sample/sample15.wav", "sample/sample16.wav", "sample/sample17.wav", "sample/sample18.wav", "sample/sample19.wav", "sample/sample20.wav", "sample/sample21.wav", "sample/sample22.wav"]
+	"drum": [ "drum/drum1.wav", "drum/drum2.wav", "drum/drum3.wav" ],
+	"hello": [ "hello/hello.wav" ] ,
+	"sample": [ "sample/sample1.wav", "sample/sample2.wav", "sample/sample3.wav", "sample/sample4.wav", "sample/sample5.wav", "sample/sample6.wav", "sample/sample7.wav", "sample/sample8.wav", "sample/sample9.wav", "sample/sample10.wav", "sample/sample11.wav", "sample/sample12.wav", "sample/sample13.wav", "sample/sample14.wav", "sample/sample15.wav", "sample/sample16.wav", "sample/sample17.wav", "sample/sample18.wav", "sample/sample19.wav", "sample/sample20.wav", "sample/sample21.wav", "sample/sample22.wav" ]
 
 }
